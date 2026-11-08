@@ -1,16 +1,16 @@
-#Customer Churn prediction
+# Customer Churn prediction
 
 This project analyses the "WA_Fn-UseC_-Telco-Customer-Churn.csv" dataset to identify the primary factors driving customer churn in a telecomunication company.
 
 It includes the  data cleaning, exploratory data analysis and data preprocessing steps necessary to train predictive machine learning models.
 
-##Project structure
+## Project structure
 
 - "data/": Contains the raw dataset ("WA_Fn-UseC_-Telco-Customer-Churn.csv").
 - "notebook/": Contains the Jupyter Notebook file for data exploration and model training.
 - "setup.sh": Shell script for automated virtual environment creation and dependency installation.
 
-##Installation and setup
+## Installation and setup
 
 1. Clone the repository.
 2. Run the setup script using the commands:
@@ -19,7 +19,7 @@ chmod +x setup.sh
 ./setup.sh
 source .venv/bin/activate
 
-##Analysis steps
+## Analysis steps
 
 1. Data cleaning
 
